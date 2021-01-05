@@ -17,7 +17,9 @@ Build ranking function based on the importance of each categories.
 
 ## Dataset
 
-The dataset is present on Kaggle produced by Elisa[1]. 
+The dataset is present on Kaggle produced by Elisa. 
+
+https://www.kaggle.com/elisaxxygao/foodrecsysv1
 
 The dataset was constructed via collecting Allrecipe.com recipe data. 
 
