@@ -30,3 +30,15 @@ The data is a collection of recipes posted between 2000 and 2018.
 Columns : recipe_id , recipe_name, aver_rate, image_url, review_nums, ingredients, cooking_directions, nutritions, and reviews. 
 
 The cooking direction column contains cooking time, and nutritions column contains the amount of following nutritions :  calories, sugars, caloriesFromFat, calcium, sodium, folate, fiber, thiamin, magnesium, iron, potassium, saturatedFat, cholesterol, vitaminC, carbohydrates, fat, niacin, vitaminA, vitaminB6, protein.
+
+## Image
+
+### Part Of Speech Tagging
+![Screenshot](POS_TAG.png)
+
+### Latent Dirichlet Allocation Topic Sample
+![Screenshot](LDA_topic.png)
+
+### Sample Output
+##### - Search Query : Give me a Korean food which could be made without oven. It should be low fat and take less than a hour.
+![Screenshot](SampleOutput.png)
